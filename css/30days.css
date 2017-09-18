@@ -1,0 +1,11 @@
+ul {
+	list-style: none;
+}
+
+.container {
+	margin: 60px 30% !important;
+}
+
+.header {
+	text-align: center;
+}
